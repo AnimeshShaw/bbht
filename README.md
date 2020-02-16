@@ -31,3 +31,7 @@ https://github.com/nahamsec/recon_profile
 - cd bbht
 - chmod +x install.sh
 - ./install.sh
+
+## Minor Update
+
+A script to set up a quick Ubuntu 17.10 x64 box with Bug Bounty Hunting Tools used by @nahamsec. The script has been modified a bit and few fixes were made. Current script works with latest version of Kali. 
